@@ -1,8 +1,5 @@
 import Hand from './classes/Hand';
 import Simulator from './classes/Simulator';
+import Range from "./classes/Range"
 
-
-export {Hand};
-export {Simulator};
-
-export default Simulator;
+export {Range};
