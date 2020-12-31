@@ -3,16 +3,6 @@
   "version": "0.4.1",
   "description": "Poker library for poker crunchers.",
   "main": "src/index.js",
-  "repository": {
-    "type": "git",
-    "url": "git://github.com/ngokevin/pokery.git"
-  },
-  "keywords": [
-    "poker",
-    "holdem",
-    "cruncher",
-    "hand"
-  ],
   "scripts": {
     "test": "npm run compile && mocha $(find lib -name '*.test.js')"
   },
